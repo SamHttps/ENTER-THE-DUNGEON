@@ -12,16 +12,16 @@ enfrentar os desafios estranhos daquela masmorra perigosa.
   	A: O jogador movimenta uma unidade para esquerda 
   	S: O jogador movimenta uma unidade para baixo 
   	D: O jogador movimenta uma unidade para direita
-& : Simbolo que representa o jogador. <br>
-* : Simbolo que representa uma parede, o jogador ao se movimentar não pode passar pela parede. <br>
-@ : Simbolo que representa a chave para abrir a porta para finalizar a fase, a porta abre no momento que o jogador interage com a chave. <br>
-D : Simbolo que representa a porta fechada.<br>
-= : Simbolo que representa a porta aberta quando o jogador interage com a chave.<br>
-O : Simbolo que representa um botão que o usuário pode interagir, o botão fica no chão e o jogador deve ficar em cima dele para poder interagir. <br>
-# : Simbolo que representa um espinho. A fase é reiniciada quando o jogador toca no espinho, caso a fase seja reiniciada três vezes, o jogo volta para o menu principal. <br>
-> : Simbolo que representa um teletransporte. O teletransporte sempre deve vir em pares, quando o jogador toca em um ele é transportado para o outro e vice-versa. <br>
-X : Simbolo que representa o monstro nível 1. Esse monstro tem um movimento aleatório para cima, para esquerda, para baixo e para direita. Caso o monstro toque no jogador, a fase é encerrada. <br>
-V : Símbolo que representa o monstro nível 2. Esse monstro tem uma inteligência para seguir o jogador (há várias maneiras de implementar isso). Caso o monstro toque no jogador, a fase é encerrada. <br>
+    & : Simbolo que representa o jogador. <br>
+    * : Simbolo que representa uma parede, o jogador ao se movimentar não pode passar pela parede. <br>
+    @ : Simbolo que representa a chave para abrir a porta para finalizar a fase, a porta abre no momento que o jogador interage com a chave. <br>
+    D : Simbolo que representa a porta fechada.<br>
+    = : Simbolo que representa a porta aberta quando o jogador interage com a chave.<br>
+    O : Simbolo que representa um botão que o usuário pode interagir, o botão fica no chão e o jogador deve ficar em cima dele para poder interagir. <br>
+    # : Simbolo que representa um espinho. A fase é reiniciada quando o jogador toca no espinho, caso a fase seja reiniciada três vezes, o jogo volta para o menu principal. <br>
+    > : Simbolo que representa um teletransporte. O teletransporte sempre deve vir em pares, quando o jogador toca em um ele é transportado para o outro e vice-versa. <br>
+    X : Simbolo que representa o monstro nível 1. Esse monstro tem um movimento aleatório para cima, para esquerda, para baixo e para direita. Caso o monstro toque no jogador, a fase é encerrada. <br>
+    V : Símbolo que representa o monstro nível 2. Esse monstro tem uma inteligência para seguir o jogador (há várias maneiras de implementar isso). Caso o monstro toque no jogador, a fase é encerrada. <br>
 
  <h3>SOBRE O JOGO<h3>
  Possui 3 fases.
