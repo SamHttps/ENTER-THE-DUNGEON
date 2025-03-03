@@ -24,11 +24,11 @@ enfrentar os desafios estranhos daquela masmorra perigosa.
     V : Símbolo que representa o monstro nível 2. Esse monstro tem uma inteligência para seguir o jogador (há várias maneiras de implementar isso). Caso o monstro toque no jogador, a fase é encerrada. <br>
 
  <h3>SOBRE O JOGO<h3>
- Possui 3 fases.
- Fase 1: mapa 10 x 10 com apenas um inimigo de nvl 1(anda aleatoriamente), chave e uma porta.
- Fase 2: mapa 20 x 20 com dois inimigos, um de nv1(anda aleatoriamente) e outro de nv2 (Persegue o player), com espinhos impedindo a saida, um botão para quebrar os espinhos e uma porta.
+ Possui 3 fases. <br>
+ Fase 1: mapa 10 x 10 com apenas um inimigo de nvl 1(anda aleatoriamente), chave e uma porta. <br>
+ Fase 2: mapa 20 x 20 com dois inimigos, um de nv1(anda aleatoriamente) e outro de nv2 (Persegue o player), com espinhos impedindo a saida, um botão para quebrar os espinhos e uma porta. <br>
  Fase 3: mapa 40 x 40 com dois inimigos, um de nv1(anda aleatoriamente) e outro de nv2 (Persegue o player), com espinhos que impedem o avanço na sala, um botão para quebrar os espinhos e
- teleporte para que o jogador alcançe a porta.
+ teleporte para que o jogador alcançe a porta. <br>
 - Jogo feito inteiramente em linguagem C, como um projeto do primeiro semestre de BCC.
 - OBJETIVO: Pegar as chaves (C) e avançar pelas portas (D), desviando dos seres que se escondem na escuridão, assim se libertando da masmorra.
 
