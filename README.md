@@ -6,6 +6,7 @@ Em um mundo fantasioso e medieval, o jogador, um aventureiro, havia saído sozin
 o aventureiro irá se deparar com um cenário sombrio e estranho, mas algo assustador acontece e o local pelo qual ele acabou de entrar é fechado com pedras. Assim, ele terá que seguir em frente e 
 enfrentar os desafios estranhos daquela masmorra perigosa.
 
+- Jogo feito inteiramente em linguagem C, como um projeto do primeiro semestre de BCC.
 OBJETIVO: Pegar as chaves (C) e avançar pelas portas (D), desviando dos seres que se escondem na escuridão.
 
 #CONTROLES / TUTORIAL
