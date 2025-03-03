@@ -29,7 +29,7 @@ enfrentar os desafios estranhos daquela masmorra perigosa.
  Fase 2: mapa 20 x 20 com dois inimigos, um de nv1(anda aleatoriamente) e outro de nv2 (Persegue o player), com espinhos impedindo a saida, um botão para quebrar os espinhos e uma porta. <br>
  Fase 3: mapa 40 x 40 com dois inimigos, um de nv1(anda aleatoriamente) e outro de nv2 (Persegue o player), com espinhos que impedem o avanço na sala, um botão para quebrar os espinhos e
  teleporte para que o jogador alcançe a porta. <br>
-- Jogo feito inteiramente em linguagem C, como um projeto do primeiro semestre de BCC.
-- OBJETIVO: Pegar as chaves (C) e avançar pelas portas (D), desviando dos seres que se escondem na escuridão, assim se libertando da masmorra.
+- Jogo feito inteiramente em linguagem C, como um projeto do primeiro semestre de BCC. <br>
+- OBJETIVO: Pegar as chaves (C) e avançar pelas portas (D), desviando dos seres que se escondem na escuridão, assim se libertando da masmorra. <br>
 
  Membros: Samuel Henrique
