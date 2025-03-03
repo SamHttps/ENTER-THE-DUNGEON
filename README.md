@@ -7,7 +7,7 @@ o aventureiro irá se deparar com um cenário sombrio e estranho, mas algo assus
 enfrentar os desafios estranhos daquela masmorra perigosa.
 
 - Jogo feito inteiramente em linguagem C, como um projeto do primeiro semestre de BCC.
-OBJETIVO: Pegar as chaves (C) e avançar pelas portas (D), desviando dos seres que se escondem na escuridão.
+- OBJETIVO: Pegar as chaves (C) e avançar pelas portas (D), desviando dos seres que se escondem na escuridão.
 
 #CONTROLES / TUTORIAL
 
